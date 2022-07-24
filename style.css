@@ -1,0 +1,137 @@
+
+body{
+    background-color: white;
+    
+}
+header{
+    background-color: rgb(76, 182, 182);
+    width: 100%;
+    height: 600px;
+    font-family: 'Montserrat', sans-serif;
+    
+ }
+ .header-tag{
+    display: flex;
+    justify-content: space-around;
+    margin: -0 -10px;
+ }
+.logo{
+    width: 10rem;
+    height: 2rem;
+    padding: 0 10px;
+    margin-right: auto;
+}
+.lorem{
+    color: antiquewhite;
+    font-weight: bolder;
+}
+svg{
+    height: 30px;
+    fill: rgb(241, 113, 104);
+}
+
+h1{
+    font-size: 70px;
+    color: rgb(17, 17, 136);
+}
+
+h3{
+    color: ;color: rgb(17, 17, 136);
+}
+h2{
+    color: ;color: rgb(17, 17, 136);
+}
+.abt{
+    color: rgb(218, 83, 83);
+}
+
+p{
+    color: rgb(33, 33, 163);;
+}
+button{
+    background-color: rgb(180, 39, 39);
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 1em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin: 20px 0px;
+}
+.shop-now{
+    border: solid red;
+    background-color:rgb(180, 39, 39);
+    height: 10px;
+    width: 120px;
+    padding:  1rem ;
+    justify-content: space-around;
+    border-radius: 1em;
+    color: aliceblue;
+}
+ul :hover{
+    background-color: rgb(130, 219, 204);
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    height: 60px;
+    padding: .5em;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: rgb(33, 33, 163);
+    background-color: aliceblue;
+
+}
+li{
+    margin: 0 4em;
+
+}
+.ola{
+    height:500px;
+    }
+ 
+.About{
+    text-align: center;
+}
+
+.Attract{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 0 100px;
+    margin: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+main{
+    background-color: white;
+    height: 400px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    
+}
+footer{
+    background-color: rgb(209, 214, 214);  
+    height: 600px;
+    font-family: 'Montserrat', sans-serif;
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+    margin: 70px;
+}
+.features{
+    text-align: center;
+    padding: 10px;
+}
+.Watch{
+    height: 300px;
+    i
+    
+}
+
+
+    
